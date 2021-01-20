@@ -2,7 +2,7 @@
 #include <conio.h>
 #include <Windows.h>
 #include <ctime>   
-#include<cstdlib>
+#include <cstdlib>
 using namespace std;
 bool gameOver;
 const int widht = 20;
