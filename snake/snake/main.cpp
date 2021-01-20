@@ -3,6 +3,7 @@
 #include <Windows.h>
 #include <ctime>   
 #include <cstdlib>
+//ZMRDE JDI DO HAJZLU
 using namespace std;
 bool gameOver;
 const int widht = 20;
