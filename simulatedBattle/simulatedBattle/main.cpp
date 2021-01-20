@@ -28,7 +28,7 @@ int	main()
 	int zombieCount = 0;
 	int zombieKilled = 0;
 
-	cout << "Vitej v Hanz Simulator." << endl << "Zmackni [ENTER] ke zapnuti hre";
+	cout << "Vitej v Nacistickej simulator." << endl << "Zmackni [ENTER] ke zapnuti hre";
 	cin.get();
 
 	cout << "Napis jsem svoje jmeno! (Kazdej vi ze jsi Hanz): ";
