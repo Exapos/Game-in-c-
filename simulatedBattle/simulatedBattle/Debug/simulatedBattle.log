@@ -1,2 +1,4 @@
-﻿  LINK : Soubor D:\GIT\Game in c++\simulatedBattle\Debug\simulatedBattle.exe se nenašel nebo se při posledním přírůstkovém propojování nesestavil. Provádí se úplné propojení.
+﻿  main.cpp
+d:\git\game in c++\simulatedbattle\simulatedbattle\main.cpp(21): warning C4244: argument: time_t se převádí na unsigned int; může dojít ke ztrátě dat.
+d:\git\game in c++\simulatedbattle\simulatedbattle\main.cpp(22): warning C4101: enter: neodkazovaná lokální proměnná
   simulatedBattle.vcxproj -> D:\GIT\Game in c++\simulatedBattle\Debug\simulatedBattle.exe
