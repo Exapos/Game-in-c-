@@ -63,9 +63,17 @@ int	main()
 						cout << "Co jsi s nim udelal?! Vzdyt se jenom branil" << endl;
 						playerScore = playerScore * 2;
 					}
+					else if (playerSkill - zombieSkill > 6) {
+						cout << "Hanz neni kamarad hanz je zmrd!" << endl;
+						playerScore = playerScore * 2;
+					}
 					else if (playerSkill - zombieSkill > 5)
 					{
 						cout << "Serizl jsi mu hlavu zmrdovy!" << endl;
+						playerScore = playerScore * 2;
+					}
+					else if (playerSkill - zombieSkill > 4) {
+						cout << "Utikej dokud muzes!!" << endl;
 						playerScore = playerScore * 2;
 					}
 					else if (playerSkill - zombieSkill > 0) {
